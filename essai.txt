@@ -1,3 +1,3 @@
 essai de frappe de texte
 On essaie de le mettre à jour
-ceci sera dans la deuxieme branche
+ceci sera dans la deuxieme branche;
